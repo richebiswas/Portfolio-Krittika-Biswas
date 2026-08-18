@@ -2,7 +2,7 @@
 
 Personal portfolio website. B.Tech CSE (AI) student, Techno India University.
 
-**Live site:** [add your GitHub Pages URL here]
+**Live site:** [(https://richebiswas.github.io/Portfolio-Krittika-Biswas/)]
 
 ## Sections
 
